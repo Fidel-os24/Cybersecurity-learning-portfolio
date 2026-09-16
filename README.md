@@ -1,4 +1,4 @@
-# Cybersecurity-learning-portfoli0
+# Cybersecurity-learning-portfolio
 
 ## About This Repository
 
@@ -23,7 +23,7 @@ experiments, and learning notes.
 
 ## Authorization Statement
 
-I will test only systems that I own or have explicit permission to test.
+I, Wale Fidel, will test only systems that I own or have explicit permission to test.
 
 ## Questions
 
