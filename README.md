@@ -43,7 +43,7 @@ to personal devices, networks, data, or other systems.
 Authorization is having explicit permission to access, test, or
 perform security activities on a system.
 
-# DEVICE SPECICIFICATION AND LAB DIAGRAM
+# Device Specification And Diagram
 
 ## Device Specification
 
