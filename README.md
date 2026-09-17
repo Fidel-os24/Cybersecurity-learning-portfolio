@@ -98,3 +98,19 @@ For learning purposes, I chose a manual installation rather than relying on an u
 Because the laptop has 8 GB of RAM, I used moderate resources for Ubuntu.
 
 Recommended configuration
+Setting
+Configuration
+RAM
+4096 MB (4 GB)
+CPU
+2 cores
+Video Memory
+128 MB
+Storage
+40 GB virtual disk
+Firmware
+EFI enabled
+Network
+NAT initially
+Display
+Automatic/appropriate scaling
