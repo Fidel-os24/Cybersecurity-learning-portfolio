@@ -56,3 +56,71 @@ perform security activities on a system.
 - Graphics: Integrated Intel graphics
 - Keyboard: Backlit
 - Condition: Refurbished
+
+## Practical Steps for Setting Up My Ubuntu Virtual Machine
+
+1. Prepare the Host Computer
+
+The physical computer used for the lab is an HP EliteBook running Windows 11 Pro.
+
+Before creating the virtual machine, I:
+	1.	Connected the laptop to a reliable power source.
+	2.	Connected to the internet.
+	3.	Closed unnecessary applications.
+	4.	Ensured that VirtualBox was installed.
+	5.	Confirmed that hardware virtualization was enabled on the laptop.
+
+Hardware virtualization can usually be checked in:
+
+Task Manager → Performance → CPU → Virtualization
+
+It should show Enabled.
+
+⸻
+
+2. Download the Ubuntu ISO
+
+I downloaded the 64-bit Ubuntu Desktop ISO image.
+
+The ISO file is used as the installation media for the virtual machine.
+
+For a cybersecurity learning environment, an Ubuntu LTS release is preferable when stability and long-term support are priorities.
+
+⸻
+
+3. Open VirtualBox
+
+I launched Oracle VirtualBox on Windows.
+
+From the VirtualBox Manager, I selected:
+
+New
+
+This opened the virtual machine creation wizard.
+
+⸻
+
+4. Create the Virtual Machine
+
+I entered the following settings:
+
+Name:
+Ubuntu-Cybersecurity-Lab
+
+Type:
+Linux
+
+Version:
+Ubuntu (64-bit)
+
+I selected the downloaded Ubuntu ISO as the installation image.
+
+For learning purposes, I chose a manual installation rather than relying on an unattended installation so that I could understand each installation step.
+
+⸻
+
+5. Configure the Virtual Machine Hardware
+
+Because the laptop has 8 GB of RAM, I used moderate resources for Ubuntu.
+
+Recommended configuration
