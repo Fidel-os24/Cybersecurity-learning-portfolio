@@ -42,3 +42,17 @@ to personal devices, networks, data, or other systems.
 
 Authorization is having explicit permission to access, test, or
 perform security activities on a system.
+
+# DEVICE SPECICIFICATION AND LAB DIAGRAM
+
+## Device Specification
+
+- Model: HP EliteBook 840
+- Processor: Intel Core i5
+- RAM: 8GB
+- storage: 256GB
+- Operating System: window 11 pro
+- Display: 14-inch
+- Graphics: Integrated Intel graphics
+- Keyboard: Backlit
+- Condition: Refurbished
