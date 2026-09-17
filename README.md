@@ -99,10 +99,12 @@ Because the laptop has 8 GB of RAM, I used moderate resources for Ubuntu.
 Recommended configuration
 
 #### Setting         Configuration
-RAM                  4096 MB (4 GB)
-CPU                  4 cores
-Video Memory         128 MB
-Storage              50 GB virtual disk
-Firmware             EFI enabled
-Network              NAT initially
-Display              Automatic/appropriate scaling
+- RAM                  4096 MB (4 GB)
+- CPU                  4 cores
+- Video Memory         128 MB
+- Storage              50 GB virtual disk
+- Firmware             EFI enabled
+- Network              NAT initially
+- Display              Automatic/appropriate scaling
+
+I avoided allocating all of the laptop's RAM or CPU cores to the virtual machine because Window needs resources to continue operating.
